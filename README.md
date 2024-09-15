@@ -1,4 +1,4 @@
-# SQL-PY-Workbench-website2
+# SQL-PY-Workbench-Website
 
 This is a better version of SQL-PY-Workbench-website where I used the go language.
 
@@ -7,11 +7,9 @@ This is a better version of SQL-PY-Workbench-website where I used the go languag
 How to install
 
 ```bash
-  git clone https://github.com/codeforge11/SQL-PY-Workbench-website2.git
+  git clone https://github.com/codeforge11/SQL-PY-Workbench-Web.git
 
-  cd SQL-PY-Workbench-website2
-
-  go mod tidy
+  cd SQL-PY-Workbench-Web
 
   go run .
 ```
